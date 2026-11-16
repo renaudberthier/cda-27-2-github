@@ -7,3 +7,7 @@
 - git rm --cached : Permet d'annuler un git add quand on a fait une bêtise
 
 - git commit -m "Le message" : Réalise un point d'étape du projet, qui servira de point dans le temps auquel on pourra revenir dans le futur (sauf exceptions).
+
+- git branch -c nom_branche : Crée une nouvelle branche
+
+- git switch nom_branche : Change pour la branche "nom_branche"
